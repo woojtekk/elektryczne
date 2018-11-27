@@ -1,0 +1,53 @@
+# INIT TIME STEP TEST ..................................................  
+# VDS       : -10.0 	 Current compliance 0.001
+# VGS       : -10.0 	 Current compliance 0.001
+# NPLC      : 1.0
+# DELETE    : 0.0
+# pozycja poczatkowa szhuttera: 1 keep open 1 before measurmeents
+# :: ----------------------------------- TIME --------------------------------------
+# ::     Time 	 IDS 	 IGS 	 VDS 	 VGS 	 XPIN 	 | Shutter | 	 Delta Time	     
+# :: -------------------------------------------------------------------------------
+# :: ---------- SHUTTER open for 1sec. before measurements: Shutter status:1
+0.0000 +1.996752E-08 -5.751608E-07 -10.0 -10.0 +1.969662E-03 | 1 | 888.0000
+0.1400 +6.051183E-09 -5.704262E-07 -10.0 -10.0 +2.022021E-03 | 1 | 0.1400
+0.2800 +5.673931E-09 -5.709707E-07 -10.0 -10.0 +2.030885E-03 | 1 | 0.1400
+0.4300 +5.380517E-09 -5.707616E-07 -10.0 -10.0 +2.032836E-03 | 1 | 0.1500
+0.5900 +5.296669E-09 -5.706355E-07 -10.0 -10.0 +2.036100E-03 | 1 | 0.1600
+0.7400 +5.632006E-09 -5.705935E-07 -10.0 -10.0 +2.038147E-03 | 1 | 0.1500
+0.8900 +5.673924E-09 -5.704260E-07 -10.0 -10.0 +2.040114E-03 | 1 | 0.1500
+1.0400 +5.506268E-09 -5.708447E-07 -10.0 -10.0 +2.042276E-03 | 1 | 0.1500
+1.1900 +5.422424E-09 -5.702170E-07 -10.0 -10.0 +2.044439E-03 | 1 | 0.1500
+1.3300 +6.009263E-09 -5.708871E-07 -10.0 -10.0 +2.047191E-03 | 1 | 0.1400
+1.4700 +5.673935E-09 -5.705096E-07 -10.0 -10.0 +2.047529E-03 | 1 | 0.1400
+1.6100 +5.632018E-09 -5.705936E-07 -10.0 -10.0 +2.052011E-03 | 1 | 0.1400
+1.7500 +5.422416E-09 -5.702586E-07 -10.0 -10.0 +2.049110E-03 | 1 | 0.1400
+#::::: ABORT ::::::
+1.8900 +5.129000E-09 -5.706773E-07 -10.0 -10.0 +2.052174E-03 | 1 | 0.1400
+#
+#----------------------- FOOTER ------------------------------------
+# DEV_1 VDS:  KEITHLEY INSTRUMENTS INC.,MODEL 2400,4033786,C32   Oct  4 2010 14:20:11/A02  /T/K
+# DEV_1 VDS: Serial<id=0xb606bc0c, open=True>(port='/dev/ttyUSB2', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+# DEV_2 VGS:  KEITHLEY INSTRUMENTS INC.,MODEL 2400,1322544,C32   Oct  4 2010 14:20:11/A02  /R/J
+# DEV_1 VDS: Serial<id=0xb607592c, open=True>(port='/dev/ttyUSB1', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+#
+# ======= ERROR'S @ VDS
+## :STAT:MEAS?   	 64 
+## :SYST:ERR:ALL? 	 0,"No error" 
+## *ESR?   	 0 
+## *OPC?   	 1 
+## :STAT:OPER?   	 1088 
+## :STAT:MEAS?   	 0 
+## :STAT:QUES?   	 0 
+#
+# ======= ERROR'S @ VGS
+## :STAT:MEAS?   	 64 
+## :SYST:ERR:ALL? 	 0,"No error" 
+## *ESR?   	 0 
+## *OPC?   	 1 
+## :STAT:OPER?   	 1088 
+## :STAT:MEAS?   	 0 
+## :STAT:QUES?   	 0 
+#
+#
+# ----* zajaczkowksi@mpip-mainz.mpg.de *-------------------------------
+# ----- End of file 2017-09-23 16:18:08.698006 created by:/home/mar345/src/ele4/bin/K2400.pyc

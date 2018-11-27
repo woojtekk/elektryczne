@@ -1,0 +1,137 @@
+2017-09-23 16:13:50,995 :: root :: let it start
+2017-09-23 16:13:51,000 :: root :: --------------- NEW ------------------
+2017-09-23 16:13:51,000 :: root :: INIT - START
+2017-09-23 16:13:51,000 :: root :: INIT:: USB_VDS:/dev/ttyUSB2
+2017-09-23 16:13:51,000 :: root :: INIT:: USB_VGS:/dev/ttyUSB1
+2017-09-23 16:13:51,001 :: root :: INIT:: USB_PIC:/dev/ttyPICO
+2017-09-23 16:13:51,002 :: root :: INIT_PORT
+2017-09-23 16:13:51,003 :: root :: INIT_PORT
+2017-09-23 16:13:51,005 :: root :: INIT_PORT
+2017-09-23 16:13:51,005 :: root :: INIT:: ser_VDS:Serial<id=0xb5fd0c0c, open=True>(port='/dev/ttyUSB2', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:13:51,005 :: root :: INIT:: ser_VGS:Serial<id=0xb5fda92c, open=True>(port='/dev/ttyUSB1', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:13:51,005 :: root :: INIT:: ser_PIC:Serial<id=0xb5fd0d6c, open=True>(port='/dev/ttyPICO', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:13:51,005 :: root :: INIT_CONTROLER
+2017-09-23 16:13:51,006 :: root :: INIT_CONTROLER
+2017-09-23 16:13:51,006 :: root :: INIT_CONTROLER_PIC
+2017-09-23 16:13:51,006 :: root :: INIT - END
+2017-09-23 16:13:51,006 :: root :: ********* TIME_STEPS_START *********
+2017-09-23 16:13:52,067 :: root :: CHECK FILE: /home/mar345/src/ele4//data/terefere_time.txt
+2017-09-23 16:13:52,067 :: root :: CHECK FILE: /home/mar345/src/ele4//data/terefere_time.txt
+2017-09-23 16:13:52,067 :: root :: CHECK FILE will save:/home/mar345/src/ele4//data/terefere_time.txt
+2017-09-23 16:13:52,067 :: root :: Create NEW FILE: /home/mar345/src/ele4//data/terefere_time.txt
+2017-09-23 16:14:17,994 :: root :: let it start
+2017-09-23 16:14:17,997 :: root :: --------------- NEW ------------------
+2017-09-23 16:14:17,997 :: root :: INIT - START
+2017-09-23 16:14:17,998 :: root :: INIT:: USB_VDS:/dev/ttyUSB2
+2017-09-23 16:14:17,998 :: root :: INIT:: USB_VGS:/dev/ttyUSB1
+2017-09-23 16:14:17,998 :: root :: INIT:: USB_PIC:/dev/ttyPICO
+2017-09-23 16:14:17,999 :: root :: INIT_PORT
+2017-09-23 16:14:18,000 :: root :: INIT_PORT
+2017-09-23 16:14:18,002 :: root :: INIT_PORT
+2017-09-23 16:14:18,002 :: root :: INIT:: ser_VDS:Serial<id=0xb5fbec0c, open=True>(port='/dev/ttyUSB2', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:14:18,002 :: root :: INIT:: ser_VGS:Serial<id=0xb5fc892c, open=True>(port='/dev/ttyUSB1', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:14:18,002 :: root :: INIT:: ser_PIC:Serial<id=0xb5fbed6c, open=True>(port='/dev/ttyPICO', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:14:18,002 :: root :: INIT_CONTROLER
+2017-09-23 16:14:18,003 :: root :: INIT_CONTROLER
+2017-09-23 16:14:18,003 :: root :: INIT_CONTROLER_PIC
+2017-09-23 16:14:18,003 :: root :: INIT - END
+2017-09-23 16:14:18,003 :: root :: ********* TIME_STEPS_START *********
+2017-09-23 16:14:19,062 :: root :: CHECK FILE: /home/mar345/src/ele4//data/terefere_time.txt
+2017-09-23 16:14:19,063 :: root :: CHECK FILE: /home/mar345/src/ele4//data/terefere_time.txt
+2017-09-23 16:14:19,063 :: root :: CHECK FILE will save:/home/mar345/src/ele4//data/terefere_time.txt
+2017-09-23 16:14:19,063 :: root :: Create NEW FILE: /home/mar345/src/ele4//data/terefere_time.txt
+2017-09-23 16:17:44,495 :: root :: let it start
+2017-09-23 16:17:44,499 :: root :: --------------- NEW ------------------
+2017-09-23 16:17:44,499 :: root :: INIT - START
+2017-09-23 16:17:44,499 :: root :: INIT:: USB_VDS:/dev/ttyUSB2
+2017-09-23 16:17:44,499 :: root :: INIT:: USB_VGS:/dev/ttyUSB1
+2017-09-23 16:17:44,499 :: root :: INIT:: USB_PIC:/dev/ttyPICO
+2017-09-23 16:17:44,500 :: root :: INIT_PORT
+2017-09-23 16:17:44,501 :: root :: INIT_PORT
+2017-09-23 16:17:44,503 :: root :: INIT_PORT
+2017-09-23 16:17:44,503 :: root :: INIT:: ser_VDS:Serial<id=0xb6041bcc, open=True>(port='/dev/ttyUSB2', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:17:44,503 :: root :: INIT:: ser_VGS:Serial<id=0xb604b8ec, open=True>(port='/dev/ttyUSB1', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:17:44,503 :: root :: INIT:: ser_PIC:Serial<id=0xb6041d2c, open=True>(port='/dev/ttyPICO', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:17:44,504 :: root :: INIT_CONTROLER
+2017-09-23 16:17:44,504 :: root :: INIT_CONTROLER
+2017-09-23 16:17:44,504 :: root :: INIT_CONTROLER_PIC
+2017-09-23 16:17:44,504 :: root :: INIT - END
+2017-09-23 16:17:44,504 :: root :: ********* TIME_STEPS_START *********
+2017-09-23 16:17:45,565 :: root :: CHECK FILE: /home/mar345/src/ele4//data/terefere_time.txt
+2017-09-23 16:17:45,565 :: root :: CHECK FILE: /home/mar345/src/ele4//data/terefere_time.txt
+2017-09-23 16:17:45,565 :: root :: CHECK FILE will save:/home/mar345/src/ele4//data/terefere_time.txt
+2017-09-23 16:17:45,565 :: root :: Create NEW FILE: /home/mar345/src/ele4//data/terefere_time.txt
+2017-09-23 16:17:55,220 :: root :: let it start
+2017-09-23 16:17:55,225 :: root :: --------------- NEW ------------------
+2017-09-23 16:17:55,225 :: root :: INIT - START
+2017-09-23 16:17:55,225 :: root :: INIT:: USB_VDS:/dev/ttyUSB2
+2017-09-23 16:17:55,226 :: root :: INIT:: USB_VGS:/dev/ttyUSB1
+2017-09-23 16:17:55,226 :: root :: INIT:: USB_PIC:/dev/ttyPICO
+2017-09-23 16:17:55,227 :: root :: INIT_PORT
+2017-09-23 16:17:55,228 :: root :: INIT_PORT
+2017-09-23 16:17:55,229 :: root :: INIT_PORT
+2017-09-23 16:17:55,229 :: root :: INIT:: ser_VDS:Serial<id=0xb5fd9c0c, open=True>(port='/dev/ttyUSB2', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:17:55,230 :: root :: INIT:: ser_VGS:Serial<id=0xb5fe392c, open=True>(port='/dev/ttyUSB1', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:17:55,230 :: root :: INIT:: ser_PIC:Serial<id=0xb5fd9d6c, open=True>(port='/dev/ttyPICO', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:17:55,230 :: root :: INIT_CONTROLER
+2017-09-23 16:17:55,231 :: root :: INIT_CONTROLER
+2017-09-23 16:17:55,231 :: root :: INIT_CONTROLER_PIC
+2017-09-23 16:17:55,231 :: root :: INIT - END
+2017-09-23 16:17:55,231 :: root :: ********* TIME_STEPS_START *********
+2017-09-23 16:17:56,292 :: root :: CHECK FILE: /home/mar345/src/ele4//data/terefere_time.txt
+2017-09-23 16:17:56,292 :: root :: CHECK FILE: /home/mar345/src/ele4//data/terefere_time.txt
+2017-09-23 16:17:56,292 :: root :: CHECK FILE will save:/home/mar345/src/ele4//data/terefere_time.txt
+2017-09-23 16:17:56,292 :: root :: Create NEW FILE: /home/mar345/src/ele4//data/terefere_time.txt
+2017-09-23 16:17:57,322 :: root :: SET_VOLTAGE_INIT: Serial<id=0xb5fd9c0c, open=True>(port='/dev/ttyUSB2', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:17:57,322 :: root :: 0.1 0.001 1.0 0.0 OUTPUT ON
+2017-09-23 16:17:57,322 :: root :: SET_VOLTAGE_INIT: Serial<id=0xb5fe392c, open=True>(port='/dev/ttyUSB1', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:17:57,323 :: root :: 0.1 0.001 1.0 0.0 OUTPUT ON
+2017-09-23 16:18:01,221 :: root :: USE SWITCH: OFF
+2017-09-23 16:18:01,221 :: root :: CREATE FILE FOOTER
+2017-09-23 16:18:01,221 :: root :: SENS OFF [:OUTP OFF]
+2017-09-23 16:18:01,221 :: root :: SENS OFF [:OUTP OFF]
+2017-09-23 16:18:01,475 :: root :: READ ERRORS
+2017-09-23 16:18:01,682 :: root :: READ ERRORS
+2017-09-23 16:18:01,891 :: root :: Serial<id=0xb5fd9c0c, open=True>(port='/dev/ttyUSB2', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:18:01,894 :: root :: PORT: CLOSE
+2017-09-23 16:18:01,894 :: root :: Serial<id=0xb5fe392c, open=True>(port='/dev/ttyUSB1', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:18:01,901 :: root :: PORT: CLOSE
+2017-09-23 16:18:01,901 :: root :: Serial<id=0xb5fd9d6c, open=True>(port='/dev/ttyPICO', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:18:02,172 :: root :: PORT: CLOSE
+2017-09-23 16:18:03,723 :: root :: let it start
+2017-09-23 16:18:03,726 :: root :: --------------- NEW ------------------
+2017-09-23 16:18:03,726 :: root :: INIT - START
+2017-09-23 16:18:03,726 :: root :: INIT:: USB_VDS:/dev/ttyUSB2
+2017-09-23 16:18:03,727 :: root :: INIT:: USB_VGS:/dev/ttyUSB1
+2017-09-23 16:18:03,727 :: root :: INIT:: USB_PIC:/dev/ttyPICO
+2017-09-23 16:18:03,728 :: root :: INIT_PORT
+2017-09-23 16:18:03,729 :: root :: INIT_PORT
+2017-09-23 16:18:03,730 :: root :: INIT_PORT
+2017-09-23 16:18:03,731 :: root :: INIT:: ser_VDS:Serial<id=0xb606bc0c, open=True>(port='/dev/ttyUSB2', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:18:03,731 :: root :: INIT:: ser_VGS:Serial<id=0xb607592c, open=True>(port='/dev/ttyUSB1', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:18:03,731 :: root :: INIT:: ser_PIC:Serial<id=0xb606bd6c, open=True>(port='/dev/ttyPICO', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:18:03,731 :: root :: INIT_CONTROLER
+2017-09-23 16:18:03,731 :: root :: INIT_CONTROLER
+2017-09-23 16:18:03,732 :: root :: INIT_CONTROLER_PIC
+2017-09-23 16:18:03,732 :: root :: INIT - END
+2017-09-23 16:18:03,732 :: root :: ********* TIME_STEPS_START *********
+2017-09-23 16:18:04,790 :: root :: CHECK FILE: /home/mar345/src/ele4//data/terefere_time.txt
+2017-09-23 16:18:04,791 :: root :: CHECK FILE: /home/mar345/src/ele4//data/terefere_time.txt
+2017-09-23 16:18:04,791 :: root :: CHECK FILE will save:/home/mar345/src/ele4//data/terefere_time_01.txt
+2017-09-23 16:18:04,791 :: root :: Create NEW FILE: /home/mar345/src/ele4//data/terefere_time_01.txt
+2017-09-23 16:18:05,820 :: root :: SET_VOLTAGE_INIT: Serial<id=0xb606bc0c, open=True>(port='/dev/ttyUSB2', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:18:05,821 :: root :: 0.1 0.001 1.0 0.0 OUTPUT ON
+2017-09-23 16:18:05,822 :: root :: SET_VOLTAGE_INIT: Serial<id=0xb607592c, open=True>(port='/dev/ttyUSB1', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:18:05,822 :: root :: 0.1 0.001 1.0 0.0 OUTPUT ON
+2017-09-23 16:18:08,027 :: root :: USE SWITCH: OFF
+2017-09-23 16:18:08,028 :: root :: CREATE FILE FOOTER
+2017-09-23 16:18:08,028 :: root :: SENS OFF [:OUTP OFF]
+2017-09-23 16:18:08,028 :: root :: SENS OFF [:OUTP OFF]
+2017-09-23 16:18:08,282 :: root :: READ ERRORS
+2017-09-23 16:18:08,488 :: root :: READ ERRORS
+2017-09-23 16:18:08,698 :: root :: Serial<id=0xb606bc0c, open=True>(port='/dev/ttyUSB2', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:18:08,702 :: root :: PORT: CLOSE
+2017-09-23 16:18:08,702 :: root :: Serial<id=0xb607592c, open=True>(port='/dev/ttyUSB1', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:18:08,709 :: root :: PORT: CLOSE
+2017-09-23 16:18:08,709 :: root :: Serial<id=0xb606bd6c, open=True>(port='/dev/ttyPICO', baudrate=9600, bytesize=8, parity='N', stopbits=1, timeout=1, xonxoff=0, rtscts=1, dsrdtr=False)
+2017-09-23 16:18:08,988 :: root :: PORT: CLOSE
